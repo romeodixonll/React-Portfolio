@@ -42,7 +42,7 @@ const Portfolio = ()=>(
           <div className="card-text-wrap">
             <p className="card-text-category">Group Project</p>
             <h2 className="card-text-title">Stellar Sights</h2>
-            <a href="https://github.com/romeodixonll/CodeRefactor" target={"_blank"}><i className="fab fa-github fa-3x my-2"></i></a>
+            <a href="https://github.com/sygmo/stellar-sights" target={"_blank"}><i className="fab fa-github fa-3x my-2"></i></a>
           </div>
         </div></a>
       </div>
@@ -55,7 +55,7 @@ const Portfolio = ()=>(
           <div className="card-text-wrap">
             <p className="card-text-category">Group Project</p>
             <h2 className="card-text-title">KeepUp</h2>
-            <a href="https://github.com/romeodixonll/CodeRefactor" target={"_blank"}><i className="fab fa-github fa-3x my-2"></i></a>
+            <a href="https://github.com/inklein1997/ProManj" target={"_blank"}><i className="fab fa-github fa-3x my-2"></i></a>
           </div>
         </div></a>
       </div>
@@ -70,7 +70,7 @@ const Portfolio = ()=>(
           <div className="card-text-wrap">
             <p className="card-text-category">Portfolio</p>
             <h2 className="card-text-title">React Portfolio</h2>
-            <a href="https://github.com/romeodixonll/CodeRefactor" target={"_blank"}><i className="fab fa-github fa-3x my-2"></i></a>
+            <a href="https://github.com/romeodixonll/React-Portfolio" target={"_blank"}><i className="fab fa-github fa-3x my-2"></i></a>
           </div>
         </div></a>
       </div>
@@ -83,7 +83,7 @@ const Portfolio = ()=>(
           <div className="card-text-wrap">
             <p className="card-text-category">Photography & Design</p>
             <h2 className="card-text-title">Vanishing</h2>
-            <a href="https://github.com/romeodixonll/CodeRefactor" target={"_blank"}><i className="fab fa-github fa-3x my-2"></i></a>
+            <a href="https://github.com/romeodixonll/React-Portfolio" target={"_blank"}><i className="fab fa-github fa-3x my-2"></i></a>
           </div>
         </div></a>
       </div>
@@ -96,7 +96,7 @@ const Portfolio = ()=>(
           <div className="card-text-wrap">
             <p className="card-text-category">Mobile UI Design</p>
             <h2 className="card-text-title">Face The Experience</h2>
-            <a href="https://github.com/romeodixonll/CodeRefactor" target={"_blank"}><i className="fab fa-github fa-3x my-2"></i></a>
+            <a href="https://github.com/romeodixonll/React-Portfolio" target={"_blank"}><i className="fab fa-github fa-3x my-2"></i></a>
           </div>
         </div></a>
       </div>
