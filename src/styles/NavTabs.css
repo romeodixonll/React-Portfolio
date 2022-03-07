@@ -215,10 +215,15 @@
   
   @media (max-width: 500px) {
     #main-nav {
+      
       flex-direction: column;
       align-items: center; }
       #main-nav li {
+        margin-bottom: 10px;
         padding: 1rem; }
+        #main-nav li a{
+        color:#ffbc00;
+           }
     }
   
  

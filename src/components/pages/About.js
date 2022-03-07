@@ -42,7 +42,7 @@ const About = ()=>(
       </div>
     </div>
     </section>
-    <section id="about-b" className="bg-dark py-3">
+    {/* <section id="about-b" className="bg-dark py-3">
     <div className="container">
         <h2 className="section-title">Technical Skills</h2>
         <div className="bottom-line"></div>
@@ -72,7 +72,7 @@ const About = ()=>(
         </div>
       </div>
     
-  </section>
+  </section> */}
   
   </div>
 )

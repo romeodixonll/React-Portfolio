@@ -53,11 +53,11 @@ const Contact = () => (
     </section>
     <section id="contact-b" className="center-page py-2">
       <div className="container">
-        <a href="https://drive.google.com/file/d/1OH3fWy6OHOSaQYUGqjtwZvRzBX_6_Or4/view?usp=sharing" target="_blank">
-          <i class="fas fa-solid fa-file fa-2x"></i>
+        {/* <a href="https://drive.google.com/file/d/1OH3fWy6OHOSaQYUGqjtwZvRzBX_6_Or4/view?usp=sharing" target="_blank">
+          <i className="fas fa-solid fa-file fa-2x"></i>
           <h3>My Resume</h3>
           <p>Click to download</p>
-        </a>
+        </a> */}
 
         <div className="line"></div>
         <div className="contact-me">
