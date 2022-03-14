@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "./static/css/main.caed4ded.css",
-    "main.js": "./static/js/main.43694efc.js",
+    "main.js": "./static/js/main.866d954e.js",
     "static/media/showcase.jpg": "./static/media/showcase.4b0b12d62453a2be92ef.jpg",
-    "static/media/first-site.JPG": "./static/media/first-site.d3e9f20d01ac45bdc3b0.JPG",
     "static/media/2.jpg": "./static/media/2.da729401b7b1e3f971bd.jpg",
+    "static/media/bookEngine.JPG": "./static/media/bookEngine.e0f6fd897c507858503d.JPG",
     "static/media/project4.jpg": "./static/media/project4.ca7fa1de8a336e576064.jpg",
-    "static/media/mountain.jpg": "./static/media/mountain.26b5be25708bbd97e19b.jpg",
     "static/media/keepUp2.JPG": "./static/media/keepUp2.57f94b6a3dc57f883692.JPG",
-    "static/media/website.jpg": "./static/media/website.bbb079a8aff2dbc2b253.jpg",
+    "static/media/weatherApp.JPG": "./static/media/weatherApp.c18786190e4adc784cbc.JPG",
     "static/media/group-site.JPG": "./static/media/group-site.2d13adf4ea7ad53910e0.JPG",
     "static/media/profilePic.jpg": "./static/media/profilePic.ee17ed3156b7ae60813e.jpg",
+    "static/media/noteApp.JPG": "./static/media/noteApp.cc2c22e8821ad569dca8.JPG",
     "index.html": "./index.html",
     "main.caed4ded.css.map": "./static/css/main.caed4ded.css.map",
-    "main.43694efc.js.map": "./static/js/main.43694efc.js.map"
+    "main.866d954e.js.map": "./static/js/main.866d954e.js.map"
   },
   "entrypoints": [
     "static/css/main.caed4ded.css",
-    "static/js/main.43694efc.js"
+    "static/js/main.866d954e.js"
   ]
 }
